@@ -29,9 +29,8 @@
 </p>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akramdaboussi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+## 🏅 Certifications
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](lien-vers-ton-badge-credly)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-daboussi-a9767a315)
